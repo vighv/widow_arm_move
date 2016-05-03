@@ -1,0 +1,33 @@
+positions:
+  rest:
+    arm_1_base: 0.0
+    arm_2_shoulder: -1.57
+    arm_3_elbow: -1.57
+    arm_4_wrist: 0.0
+    arm_5_head_tilt: 0.0
+    arm_6_gripper: 0.7
+
+  up_turn:
+    arm_1_base: 0.5
+    arm_2_shoulder: -1.2
+    arm_3_elbow: -1.2
+    arm_4_wrist: 0.2
+    arm_5_head_tilt: 0.5
+    arm_6_gripper: -0.3
+
+  zero:
+    arm_1_base: 0.0
+    arm_2_shoulder: 0.0
+    arm_3_elbow: 0.0
+    arm_4_wrist: 0.0
+    arm_5_head_tilt: 0.0
+    arm_6_gripper: 0.5
+
+  way_high:
+    arm_1_base: 0.7
+    arm_2_shoulder: -0.3
+    arm_3_elbow: 0.6
+    arm_4_wrist: -0.4
+    arm_5_head_tilt: 0.8
+    arm_6_gripper: -0.4
+
